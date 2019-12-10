@@ -27,11 +27,6 @@ namespace NumberGenerator.Logic
                 throw new ArgumentNullException(nameof(observer));
             }
 
-            if (_observers.Contains(observer))
-            {
-                throw new InvalidOperationException("Observer is already attached!");
-            }
-
             _observers.Add(observer);
         }
 
@@ -40,11 +35,6 @@ namespace NumberGenerator.Logic
             if (observer == null)
             {
                 throw new ArgumentNullException(nameof(observer));
-            }
-
-            if (!_observers.Contains(observer))
-            {
-                throw new InvalidOperationException("Observer was not attached!");
             }
 
             _observers.Remove(observer);
