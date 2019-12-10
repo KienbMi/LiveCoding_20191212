@@ -1,0 +1,14 @@
+C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.exe
+C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.deps.json
+C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.runtimeconfig.json
+C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.runtimeconfig.dev.json
+C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.dll
+C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.pdb
+C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.Logic.dll
+C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.Logic.pdb
+C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.csprojAssemblyReference.cache
+C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.AssemblyInfoInputs.cache
+C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.AssemblyInfo.cs
+C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.csproj.CopyComplete
+C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.dll
+C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.pdb
