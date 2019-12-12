@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using static NumberGenerator.Logic.Contracts.IObservable;
 
 namespace NumberGenerator.Logic
 {
@@ -12,33 +13,33 @@ namespace NumberGenerator.Logic
         private const int MSECONDS_TO_SLEEP = 750;
 
         private readonly int _nrOfGenerations;
-        private readonly IList<IObserver> _observers; 
+        //private readonly IList<IObserver> _observers; 
 
         public MyNumberGenerator(int nrOfGenerations)
         {
             _nrOfGenerations = nrOfGenerations;
-            _observers = new List<IObserver>();
+            //_observers = new List<IObserver>();
         }
 
-        public void Attach(IObserver observer)
-        {
-            if (observer == null)
-            {
-                throw new ArgumentNullException(nameof(observer));
-            }
+        //public void Attach(IObserver observer)
+        //{
+        //    if (observer == null)
+        //    {
+        //        throw new ArgumentNullException(nameof(observer));
+        //    }
 
-            _observers.Add(observer);
-        }
+        //    _observers.Add(observer);
+        //}
 
-        public void Detach(IObserver observer)
-        {
-            if (observer == null)
-            {
-                throw new ArgumentNullException(nameof(observer));
-            }
+        //public void Detach(IObserver observer)
+        //{
+        //    if (observer == null)
+        //    {
+        //        throw new ArgumentNullException(nameof(observer));
+        //    }
 
-            _observers.Remove(observer);
-        }
+        //    _observers.Remove(observer);
+        //}
 
         public void Start()
         {
@@ -54,10 +55,13 @@ namespace NumberGenerator.Logic
 
         private void OnNewNumber(int newNumber)
         {
-            foreach (IObserver observer in _observers)
-            {
-                observer.Update(newNumber);
-            }
+            //foreach (IObserver observer in _observers)
+            //{
+            //    observer.Update(newNumber);
+            //}
+                NumberChanged?.Invoke(newNumber);
         }
+
+        public NumberChangedHandler NumberChanged { get; set ; }
     }
 }

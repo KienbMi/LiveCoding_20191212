@@ -3,7 +3,7 @@ using System;
 
 namespace NumberGenerator.ConsoleApp
 {
-    internal class CounterView : IObserver
+    internal class CounterView 
     {
         private int _counter = 0;
 

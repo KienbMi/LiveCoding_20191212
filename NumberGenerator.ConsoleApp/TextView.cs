@@ -3,7 +3,7 @@ using System;
 
 namespace NumberGenerator.ConsoleApp
 {
-    internal class TextView : IObserver
+    internal class TextView 
     {
         public TextView() 
         {

@@ -4,7 +4,11 @@ namespace NumberGenerator.Logic.Contracts
 {
     public interface IObservable
     {
-        void Attach(IObserver observer);
-        void Detach(IObserver observer);
+        delegate void NumberChangedHandler(int newNumber);
+
+        NumberChangedHandler NumberChanged { get; set; }
+
+        //void Attach(IObserver observer);
+        //void Detach(IObserver observer);
     }
 }
