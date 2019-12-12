@@ -8,7 +8,6 @@ C:\temp\HTL\numbergenerator\source\NumberGenerator.Logic\obj\Debug\netcoreapp3.0
 C:\HTL\POS\LiveCoding_20191212\NumberGenerator.Logic\bin\Debug\netcoreapp3.0\NumberGenerator.Logic.deps.json
 C:\HTL\POS\LiveCoding_20191212\NumberGenerator.Logic\bin\Debug\netcoreapp3.0\NumberGenerator.Logic.dll
 C:\HTL\POS\LiveCoding_20191212\NumberGenerator.Logic\bin\Debug\netcoreapp3.0\NumberGenerator.Logic.pdb
-C:\HTL\POS\LiveCoding_20191212\NumberGenerator.Logic\obj\Debug\netcoreapp3.0\NumberGenerator.Logic.csprojAssemblyReference.cache
 C:\HTL\POS\LiveCoding_20191212\NumberGenerator.Logic\obj\Debug\netcoreapp3.0\NumberGenerator.Logic.AssemblyInfoInputs.cache
 C:\HTL\POS\LiveCoding_20191212\NumberGenerator.Logic\obj\Debug\netcoreapp3.0\NumberGenerator.Logic.AssemblyInfo.cs
 C:\HTL\POS\LiveCoding_20191212\NumberGenerator.Logic\obj\Debug\netcoreapp3.0\NumberGenerator.Logic.dll

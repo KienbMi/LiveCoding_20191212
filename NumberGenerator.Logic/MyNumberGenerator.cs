@@ -35,6 +35,8 @@ namespace NumberGenerator.Logic
             NumberChanged?.Invoke(newNumber);
         }
 
-        public NumberChangedHandler NumberChanged { get; set; }
+        public NumberChangedHandler NumberChanged { get; set;
+            
+        }
     }
 }

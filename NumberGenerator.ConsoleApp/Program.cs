@@ -13,9 +13,10 @@ namespace NumberGenerator.ConsoleApp
             SumView sumView = new SumView();
 
             generator.NumberChanged += textView.Update;
-            generator.NumberChanged += barView.Update;
-            generator.NumberChanged += NewNumberWasGenerated;
-            generator.NumberChanged += sumView.NewValueArrived;
+            generator.NumberChanged += textView.Update;
+            //generator.NumberChanged += barView.Update;
+            //generator.NumberChanged += NewNumberWasGenerated;
+            //generator.NumberChanged += sumView.NewValueArrived;
 
             generator.Start();
         }
