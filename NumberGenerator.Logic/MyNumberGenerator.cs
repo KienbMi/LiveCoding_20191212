@@ -32,7 +32,10 @@ namespace NumberGenerator.Logic
 
         private void OnNewNumber(int newNumber)
         {
-            NumberChanged?.Invoke(this, new MySuperFancyArgs(newNumber, -1, "Joe"));
+            if (NumberChanged != null)
+            {
+                NumberChanged(this, new MySuperFancyArgs(newNumber, -1, "Joe"));
+            }
         }
 
         //public event NumberChangedHandler NumberChanged;
