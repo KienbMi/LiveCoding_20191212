@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NumberGenerator.Logic;
+using System;
 
 namespace NumberGenerator.ConsoleApp
 {
@@ -8,9 +9,9 @@ namespace NumberGenerator.ConsoleApp
         {
         }
 
-        public void Update(int newNumber)
+        public void Update(object sender, MySuperFancyArgs args)
         {
-            Console.WriteLine($"{nameof(TextView)}: {newNumber}");
+            Console.WriteLine($"{nameof(TextView)}: {args.NewValue}");
         }
     }
 }

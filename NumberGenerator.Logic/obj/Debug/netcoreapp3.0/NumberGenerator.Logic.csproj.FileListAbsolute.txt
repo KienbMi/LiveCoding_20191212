@@ -12,3 +12,4 @@ C:\HTL\POS\LiveCoding_20191212\NumberGenerator.Logic\obj\Debug\netcoreapp3.0\Num
 C:\HTL\POS\LiveCoding_20191212\NumberGenerator.Logic\obj\Debug\netcoreapp3.0\NumberGenerator.Logic.AssemblyInfo.cs
 C:\HTL\POS\LiveCoding_20191212\NumberGenerator.Logic\obj\Debug\netcoreapp3.0\NumberGenerator.Logic.dll
 C:\HTL\POS\LiveCoding_20191212\NumberGenerator.Logic\obj\Debug\netcoreapp3.0\NumberGenerator.Logic.pdb
+C:\HTL\POS\LiveCoding_20191212\NumberGenerator.Logic\obj\Debug\netcoreapp3.0\NumberGenerator.Logic.csprojAssemblyReference.cache

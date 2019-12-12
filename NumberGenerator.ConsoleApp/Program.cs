@@ -13,17 +13,16 @@ namespace NumberGenerator.ConsoleApp
             SumView sumView = new SumView();
 
             generator.NumberChanged += textView.Update;
-            generator.NumberChanged += textView.Update;
-            //generator.NumberChanged += barView.Update;
-            //generator.NumberChanged += NewNumberWasGenerated;
-            //generator.NumberChanged += sumView.NewValueArrived;
+            generator.NumberChanged += barView.Update;
+            generator.NumberChanged += NewNumberWasGenerated;
+            generator.NumberChanged += sumView.NewValueArrived;
 
             generator.Start();
         }
 
-        static void NewNumberWasGenerated(int newNumber)
+        static void NewNumberWasGenerated(object sender, MySuperFancyArgs args)
         {
-            System.Console.WriteLine($"---> NewNumberWasGeneratede: {newNumber}");
+            System.Console.WriteLine($"---> NewNumberWasGeneratede: {args.NewValue}");
         }
     }
 }

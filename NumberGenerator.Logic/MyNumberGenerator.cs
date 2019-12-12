@@ -11,7 +11,7 @@ namespace NumberGenerator.Logic
 
         private readonly int _nrOfGenerations;
 
-        public delegate void NumberChangedHandler(int newNumber);
+        //public delegate void NumberChangedHandler(int newNumber);
 
         public MyNumberGenerator(int nrOfGenerations)
         {
@@ -32,11 +32,39 @@ namespace NumberGenerator.Logic
 
         private void OnNewNumber(int newNumber)
         {
-            NumberChanged?.Invoke(newNumber);
+            NumberChanged?.Invoke(this, new MySuperFancyArgs(newNumber, -1, "Joe"));
         }
 
-        public NumberChangedHandler NumberChanged { get; set;
-            
+        //public event NumberChangedHandler NumberChanged;
+        public event EventHandler<MySuperFancyArgs> NumberChanged;
+    }
+
+    public class MySuperFancyArgs : EventArgs
+    {
+        private readonly int _newValue;
+        private readonly int _oldValue;
+        private readonly string _name;
+
+        public MySuperFancyArgs(int newValue, int oldValue, string name)
+        {
+            _newValue = newValue;
+            _oldValue = oldValue;
+            _name = name;
+        }
+
+        public int NewValue
+        {
+            get { return _newValue; }
+        }
+
+        public int OldValue
+        {
+            get { return _oldValue; }
+        }
+
+        public string Name
+        {
+            get { return _name; }
         }
     }
 }
