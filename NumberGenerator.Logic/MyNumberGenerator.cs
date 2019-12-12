@@ -1,12 +1,9 @@
-﻿using NumberGenerator.Logic.Contracts;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Threading.Tasks;
-using static NumberGenerator.Logic.Contracts.IObservable;
 
 namespace NumberGenerator.Logic
 {
-    public class MyNumberGenerator : IObservable
+    public class MyNumberGenerator 
     {
         private const int RANDOM_MIN_VALUE = 1;
         private const int RANDOM_MAX_VALUE = 10;
@@ -14,6 +11,8 @@ namespace NumberGenerator.Logic
 
         private readonly int _nrOfGenerations;
         //private readonly IList<IObserver> _observers; 
+
+        public delegate void NumberChangedHandler(int newNumber);
 
         public MyNumberGenerator(int nrOfGenerations)
         {

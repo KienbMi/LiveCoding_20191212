@@ -1,5 +1,4 @@
-﻿using NumberGenerator.Logic.Contracts;
-using System;
+﻿using System;
 
 namespace NumberGenerator.ConsoleApp
 {
