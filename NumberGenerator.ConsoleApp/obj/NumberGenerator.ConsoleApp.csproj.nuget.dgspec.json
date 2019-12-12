@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HTL\\POS\\LiveCoding_20191212\\NumberGenerator.ConsoleApp\\NumberGenerator.ConsoleApp.csproj": {}
+    "D:\\HTL_Leonding\\A_Daten\\POS_CS\\PROG2\\LiveCoding_20191212\\NumberGenerator.ConsoleApp\\NumberGenerator.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\HTL\\POS\\LiveCoding_20191212\\NumberGenerator.ConsoleApp\\NumberGenerator.ConsoleApp.csproj": {
+    "D:\\HTL_Leonding\\A_Daten\\POS_CS\\PROG2\\LiveCoding_20191212\\NumberGenerator.ConsoleApp\\NumberGenerator.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HTL\\POS\\LiveCoding_20191212\\NumberGenerator.ConsoleApp\\NumberGenerator.ConsoleApp.csproj",
+        "projectUniqueName": "D:\\HTL_Leonding\\A_Daten\\POS_CS\\PROG2\\LiveCoding_20191212\\NumberGenerator.ConsoleApp\\NumberGenerator.ConsoleApp.csproj",
         "projectName": "NumberGenerator.ConsoleApp",
-        "projectPath": "C:\\HTL\\POS\\LiveCoding_20191212\\NumberGenerator.ConsoleApp\\NumberGenerator.ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\fujo\\.nuget\\packages\\",
-        "outputPath": "C:\\HTL\\POS\\LiveCoding_20191212\\NumberGenerator.ConsoleApp\\obj\\",
+        "projectPath": "D:\\HTL_Leonding\\A_Daten\\POS_CS\\PROG2\\LiveCoding_20191212\\NumberGenerator.ConsoleApp\\NumberGenerator.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
+        "outputPath": "D:\\HTL_Leonding\\A_Daten\\POS_CS\\PROG2\\LiveCoding_20191212\\NumberGenerator.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\fujo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Michael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -32,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\HTL\\POS\\LiveCoding_20191212\\NumberGenerator.Logic\\NumberGenerator.Logic.csproj": {
-                "projectPath": "C:\\HTL\\POS\\LiveCoding_20191212\\NumberGenerator.Logic\\NumberGenerator.Logic.csproj"
+              "D:\\HTL_Leonding\\A_Daten\\POS_CS\\PROG2\\LiveCoding_20191212\\NumberGenerator.Logic\\NumberGenerator.Logic.csproj": {
+                "projectPath": "D:\\HTL_Leonding\\A_Daten\\POS_CS\\PROG2\\LiveCoding_20191212\\NumberGenerator.Logic\\NumberGenerator.Logic.csproj"
               }
             }
           }
@@ -69,27 +67,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\HTL\\POS\\LiveCoding_20191212\\NumberGenerator.Logic\\NumberGenerator.Logic.csproj": {
+    "D:\\HTL_Leonding\\A_Daten\\POS_CS\\PROG2\\LiveCoding_20191212\\NumberGenerator.Logic\\NumberGenerator.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HTL\\POS\\LiveCoding_20191212\\NumberGenerator.Logic\\NumberGenerator.Logic.csproj",
+        "projectUniqueName": "D:\\HTL_Leonding\\A_Daten\\POS_CS\\PROG2\\LiveCoding_20191212\\NumberGenerator.Logic\\NumberGenerator.Logic.csproj",
         "projectName": "NumberGenerator.Logic",
-        "projectPath": "C:\\HTL\\POS\\LiveCoding_20191212\\NumberGenerator.Logic\\NumberGenerator.Logic.csproj",
-        "packagesPath": "C:\\Users\\fujo\\.nuget\\packages\\",
-        "outputPath": "C:\\HTL\\POS\\LiveCoding_20191212\\NumberGenerator.Logic\\obj\\",
+        "projectPath": "D:\\HTL_Leonding\\A_Daten\\POS_CS\\PROG2\\LiveCoding_20191212\\NumberGenerator.Logic\\NumberGenerator.Logic.csproj",
+        "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
+        "outputPath": "D:\\HTL_Leonding\\A_Daten\\POS_CS\\PROG2\\LiveCoding_20191212\\NumberGenerator.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\fujo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Michael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -134,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
