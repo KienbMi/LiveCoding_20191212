@@ -12,3 +12,17 @@ C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.
 C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.csproj.CopyComplete
 C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.dll
 C:\HTL\POS\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.pdb
+D:\HTL_Leonding\A_Daten\POS_CS\PROG2\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.exe
+D:\HTL_Leonding\A_Daten\POS_CS\PROG2\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.deps.json
+D:\HTL_Leonding\A_Daten\POS_CS\PROG2\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.runtimeconfig.json
+D:\HTL_Leonding\A_Daten\POS_CS\PROG2\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.runtimeconfig.dev.json
+D:\HTL_Leonding\A_Daten\POS_CS\PROG2\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.dll
+D:\HTL_Leonding\A_Daten\POS_CS\PROG2\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.pdb
+D:\HTL_Leonding\A_Daten\POS_CS\PROG2\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.Logic.dll
+D:\HTL_Leonding\A_Daten\POS_CS\PROG2\LiveCoding_20191212\NumberGenerator.ConsoleApp\bin\Debug\netcoreapp3.0\NumberGenerator.Logic.pdb
+D:\HTL_Leonding\A_Daten\POS_CS\PROG2\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.csprojAssemblyReference.cache
+D:\HTL_Leonding\A_Daten\POS_CS\PROG2\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.AssemblyInfoInputs.cache
+D:\HTL_Leonding\A_Daten\POS_CS\PROG2\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.AssemblyInfo.cs
+D:\HTL_Leonding\A_Daten\POS_CS\PROG2\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.csproj.CopyComplete
+D:\HTL_Leonding\A_Daten\POS_CS\PROG2\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.dll
+D:\HTL_Leonding\A_Daten\POS_CS\PROG2\LiveCoding_20191212\NumberGenerator.ConsoleApp\obj\Debug\netcoreapp3.0\NumberGenerator.ConsoleApp.pdb
